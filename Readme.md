@@ -15,7 +15,17 @@ Data folder contains replication files for the data analysis in Section 5 of the
 	* Data/DHS/2017/SNKR7ZFL.DTA
 	* Data/DHS/2018/SNKR81FL.DTA
 * Download "SNGE81FL.ZIP" from https://dhsprogram.com/data/dataset/Senegal_Continuous-DHS_2018.cfm?flag=1. 
-* Unzip the zip file and place the 10  files including "SNGE81FL.shp" in "Data/GPS_2018" folder.
+* Unzip the zip file and place the 10  files below in "Data/GPS_2018" folder.
+	* DHS_README.txt
+	* GPS_Displacement_README.txt
+	* SNGE81FL.cpg
+	* SNGE81FL.dbf
+	* SNGE81FL.prj
+	* SNGE81FL.sbn
+	* SNGE81FL.sbx
+	* SNGE81FL.shp
+	* SNGE81FL.shp.xml
+	* SNGE81FL.shx
 
 ### Code 
 

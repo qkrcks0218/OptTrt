@@ -1,0 +1,11 @@
+Place the following files here:
+DHS_README.txt
+GPS_Displacement_README.txt
+SNGE81FL.cpg
+SNGE81FL.dbf
+SNGE81FL.prj
+SNGE81FL.sbn
+SNGE81FL.sbx
+SNGE81FL.shp
+SNGE81FL.shp.xml
+SNGE81FL.shx
