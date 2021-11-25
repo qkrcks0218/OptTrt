@@ -17,4 +17,4 @@ This Github repository contains replication files for [Park et al. (2021)](https
 * 2_DataResult folder contains DataResult.RData file which contains the data analysis results.
 
 ## References
-Chan Park & Hyunseung Kang (2021) **Optimal Allocation of Water and Sanitation Facilities To Prevent Communicable Diarrheal Diseases in Senegal Under Partial Interference**, _arXiv:2111.09932_ [[link](https://arxiv.org/abs/2111.09932 "OptTrt")]
+Chan Park, Guanhua Chen, Menggang Yu, and Hyunseung Kang (2021) **Optimal Allocation of Water and Sanitation Facilities To Prevent Communicable Diarrheal Diseases in Senegal Under Partial Interference**, _arXiv:2111.09932_ [[link](https://arxiv.org/abs/2111.09932 "OptTrt")]
